@@ -4,7 +4,7 @@
     justify-content: center;
     gap: 20px;
     text-align: center;
-    height: 100dvh;
+    height: 115dvh;
     min-height: 500px;
 
     .hero {
@@ -60,7 +60,7 @@
 
 .colorMode {
     position: absolute;
-    right: 0;
+    right: 100px;
     width: 25px;
 }
 
@@ -70,6 +70,7 @@
 
 .description {
     max-width: 24ch;
+    align-self: center;
 }
 
 .info {
